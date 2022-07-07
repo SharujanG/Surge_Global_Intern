@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
+In this application the admin can log in to the computer using login credentials. If the input details are wrong, it will display an error. After successful login admin can create student profile. Also admin can update and delete student profile
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
